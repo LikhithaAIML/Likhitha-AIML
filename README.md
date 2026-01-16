@@ -26,10 +26,12 @@ Check out my best projects pinned on my profile!
 ---
 
 ### 📫 Connect with me
-- LinkedIn: [Likhitha Vankayalapati](https://www.linkedin.com/in/likhitha-vankayalapati)  
+- LinkedIn:www.linkedin.com/in/likhitha-vankayalapati-31a333308
 - Email: likhithavankayalapati07@gmail.com 
 
 ---
 
 ### 📈 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=LikhithaAIML&show_icons=true&theme=radical)
+https://github.com/LikhithaAIML 
+### HackerRank stats
+https://www.hackerrank.com/profile/LikhithaAIML
